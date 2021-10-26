@@ -12,6 +12,6 @@
 **Links para me acharem:**
 * [LinkedIn](https://www.linkedin.com/in/alanna-gonzaga-10781013a/)
 * [Instagram](https://www.instagram.com/alannaramosgonzaga/)
-* [Medium] (https://medium.com/@alanna.gonzaga/panorama-do-covid-19-d2387fe58521)
+* [Medium](https://medium.com/@alanna.gonzaga/panorama-do-covid-19-d2387fe58521)
   
 
