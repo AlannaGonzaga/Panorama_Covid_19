@@ -6,7 +6,8 @@
   <img src="https://images.pexels.com/photos/4031867/pexels-photo-4031867.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940" alt="imagem maneira relacionada ao projeto"height=400px >
 
 
- Uma breve descrição e análise de como os dados podem ajudar, seja em nossa vida pessoal e profissional. Esse estudo traz os dados extraídos da base de dados do portal Our World in Data onde me aprofundei nos países Brasil, Portugal e Alemanha pois onde eu tenho interese pessoal em acomapnhar os números diários.
+ Uma breve descrição e análise de como os dados podem ajudar, seja em nossa vida pessoal e profissional. 
+ A base de dados foi extraída do portal Our World in Data que fornece o cenário mundial porem me aprofundei nos países Brasil, Portugal e Alemanha pois tenho interese pessoal em acomapnhar os números diários.
   
    
 **Links para me acharem:**
